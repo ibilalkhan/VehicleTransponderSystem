@@ -1,0 +1,24 @@
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\bin\Debug\net6.0\VehicleTransponderSystem.Infrastructure.deps.json
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\bin\Debug\net6.0\VehicleTransponderSystem.Infrastructure.dll
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\bin\Debug\net6.0\VehicleTransponderSystem.Infrastructure.pdb
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.dll
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\refint\VehicleTransponderSystem.Infrastructure.dll
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.pdb
+C:\Users\BilalKhan\source\repos\VehicleTransponderSystem\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\ref\VehicleTransponderSystem.Infrastructure.dll
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\bin\Debug\net6.0\VehicleTransponderSystem.Infrastructure.deps.json
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\bin\Debug\net6.0\VehicleTransponderSystem.Infrastructure.dll
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\bin\Debug\net6.0\VehicleTransponderSystem.Infrastructure.pdb
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.dll
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\refint\VehicleTransponderSystem.Infrastructure.dll
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\VehicleTransponderSystem.Infrastructure.pdb
+C:\Users\BilalKhan\OneDrive - SPR Consulting\Desktop\Fffinal\VehicleTransponderSystem.Infrastructure\obj\Debug\net6.0\ref\VehicleTransponderSystem.Infrastructure.dll

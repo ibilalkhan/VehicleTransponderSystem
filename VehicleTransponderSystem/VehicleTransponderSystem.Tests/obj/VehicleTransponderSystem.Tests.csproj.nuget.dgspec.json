@@ -1,0 +1,385 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Tests\\VehicleTransponderSystem.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\VehicleTransponderSystem.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\VehicleTransponderSystem.Data.csproj",
+        "projectName": "VehicleTransponderSystem.Data",
+        "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\VehicleTransponderSystem.Data.csproj",
+        "packagesPath": "C:\\Users\\BilalKhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BilalKhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\VehicleTransponderSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\VehicleTransponderSystem.Infrastructure.csproj",
+        "projectName": "VehicleTransponderSystem.Infrastructure",
+        "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\VehicleTransponderSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\BilalKhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BilalKhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Services\\VehicleTransponderSystem.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Services\\VehicleTransponderSystem.Services.csproj",
+        "projectName": "VehicleTransponderSystem.Services",
+        "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Services\\VehicleTransponderSystem.Services.csproj",
+        "packagesPath": "C:\\Users\\BilalKhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BilalKhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\VehicleTransponderSystem.Data.csproj": {
+                "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\VehicleTransponderSystem.Data.csproj"
+              },
+              "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\VehicleTransponderSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\VehicleTransponderSystem.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Tests\\VehicleTransponderSystem.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Tests\\VehicleTransponderSystem.Tests.csproj",
+        "projectName": "VehicleTransponderSystem.Tests",
+        "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Tests\\VehicleTransponderSystem.Tests.csproj",
+        "packagesPath": "C:\\Users\\BilalKhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BilalKhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\VehicleTransponderSystem.Data.csproj": {
+                "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\VehicleTransponderSystem.Data.csproj"
+              },
+              "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\VehicleTransponderSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\VehicleTransponderSystem.Infrastructure.csproj"
+              },
+              "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Services\\VehicleTransponderSystem.Services.csproj": {
+                "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Services\\VehicleTransponderSystem.Services.csproj"
+              },
+              "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem\\VehicleTransponderSystem.Api.csproj": {
+                "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem\\VehicleTransponderSystem.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem\\VehicleTransponderSystem.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem\\VehicleTransponderSystem.Api.csproj",
+        "projectName": "VehicleTransponderSystem.Api",
+        "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem\\VehicleTransponderSystem.Api.csproj",
+        "packagesPath": "C:\\Users\\BilalKhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BilalKhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\VehicleTransponderSystem.Data.csproj": {
+                "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Data\\VehicleTransponderSystem.Data.csproj"
+              },
+              "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\VehicleTransponderSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Infrastructure\\VehicleTransponderSystem.Infrastructure.csproj"
+              },
+              "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Services\\VehicleTransponderSystem.Services.csproj": {
+                "projectPath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Services\\VehicleTransponderSystem.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHJLEyBEQYcjJWjAgBWljanBFFP3TSL6UM065bNwJ65L0DNvD/HM7F2CHpu2/rw66Dxdm9eHyrV31NW3ThmkAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BilalKhan\\OneDrive - SPR Consulting\\Desktop\\Fffinal\\VehicleTransponderSystem.Services\\VehicleTransponderSystem.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BilalKhan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\BilalKhan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jDVPMhkHwqNrPEvtwojW7kfCA1j9Y0wTzwmuCkIN2Us=",
+  "Source": "VehicleTransponderSystem.Api",
+  "BasePath": "_content/VehicleTransponderSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

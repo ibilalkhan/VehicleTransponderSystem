@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VehicleTransponderSystem.Api.props" />
+</Project>

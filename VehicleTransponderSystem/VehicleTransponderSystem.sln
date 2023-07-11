@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTransponderSystem.Api", "VehicleTransponderSystem\VehicleTransponderSystem.Api.csproj", "{3642F72E-3476-4AB6-9C5A-D20A8522DBD1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTransponderSystem.Services", "VehicleTransponderSystem.Services\VehicleTransponderSystem.Services.csproj", "{B3535621-5DFF-4809-9E56-64F15AD253FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTransponderSystem.Data", "VehicleTransponderSystem.Data\VehicleTransponderSystem.Data.csproj", "{DECF952E-628B-417E-AD28-006F3932C493}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTransponderSystem.Infrastructure", "VehicleTransponderSystem.Infrastructure\VehicleTransponderSystem.Infrastructure.csproj", "{396E7D2C-BB80-4AC2-A59E-14CE0A4CE7DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleTransponderSystem.Tests", "VehicleTransponderSystem.Tests\VehicleTransponderSystem.Tests.csproj", "{4F9017A6-69EE-4492-845B-C9E98BAA36AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3642F72E-3476-4AB6-9C5A-D20A8522DBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3642F72E-3476-4AB6-9C5A-D20A8522DBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3642F72E-3476-4AB6-9C5A-D20A8522DBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3642F72E-3476-4AB6-9C5A-D20A8522DBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3535621-5DFF-4809-9E56-64F15AD253FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3535621-5DFF-4809-9E56-64F15AD253FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3535621-5DFF-4809-9E56-64F15AD253FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3535621-5DFF-4809-9E56-64F15AD253FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECF952E-628B-417E-AD28-006F3932C493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECF952E-628B-417E-AD28-006F3932C493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECF952E-628B-417E-AD28-006F3932C493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECF952E-628B-417E-AD28-006F3932C493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{396E7D2C-BB80-4AC2-A59E-14CE0A4CE7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396E7D2C-BB80-4AC2-A59E-14CE0A4CE7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396E7D2C-BB80-4AC2-A59E-14CE0A4CE7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396E7D2C-BB80-4AC2-A59E-14CE0A4CE7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9017A6-69EE-4492-845B-C9E98BAA36AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9017A6-69EE-4492-845B-C9E98BAA36AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9017A6-69EE-4492-845B-C9E98BAA36AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9017A6-69EE-4492-845B-C9E98BAA36AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CBC1DD4-2E2F-4764-9755-82382CCDCB70}
+	EndGlobalSection
+EndGlobal
